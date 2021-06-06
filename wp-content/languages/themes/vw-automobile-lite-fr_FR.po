@@ -1,0 +1,643 @@
+# Translation of Themes - VW Automobile Lite in French (France)
+# This file is distributed under the same license as the Themes - VW Automobile Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-26 09:20:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - VW Automobile Lite\n"
+
+#. Theme Name of the theme
+#: inc/block-patterns/block-patterns.php:16
+msgid "VW Automobile Lite"
+msgstr "VW Automobile Lite"
+
+#: no-results.php:15
+msgid "Ready to publish your first post? Get started here."
+msgstr "Prêt à publier votre premier article ? Commencez ici."
+
+#. translators: %s: post title
+#: comments.php:31
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un commentaire sur &ldquo;%s&rdquo;"
+
+#: inc/logo-resizer.php:16
+msgid "Logo Size"
+msgstr "Taille de logo"
+
+#: inc/customizer.php:1523
+msgid "Docs"
+msgstr "Docs"
+
+#: inc/getting-started/getting-started.php:135
+#: inc/getting-started/getting-started.php:140
+msgid " Go to "
+msgstr " Aller à "
+
+#: inc/getting-started/getting-started.php:140
+msgid "2. Set the front page:"
+msgstr "2. Définir la page d’accueil :"
+
+#: inc/getting-started/getting-started.php:133
+msgid "Follow these instructions to setup Home page."
+msgstr "Suivez ces instructions pour configurer la page d'accueil."
+
+#: inc/getting-started/getting-started.php:131
+msgid "How to set up Home Page Template"
+msgstr "Comment configurer le modèle de page d'accueil"
+
+#: inc/getting-started/getting-started.php:103
+#: inc/getting-started/getting-started.php:197
+msgid "Footer Widget"
+msgstr "Widget de pied"
+
+#: inc/getting-started/getting-started.php:98
+#: inc/getting-started/getting-started.php:175
+msgid "Menus"
+msgstr "Menus"
+
+#: inc/getting-started/getting-started.php:95
+msgid "Chooose Us Section"
+msgstr "Section Nous choisir"
+
+#: inc/getting-started/getting-started.php:90
+msgid "Topbar Settings"
+msgstr "Réglages de barre haute"
+
+#: inc/getting-started/getting-started.php:79
+#: inc/getting-started/getting-started.php:167
+msgid "Upload your logo"
+msgstr "Téléversez votre logo"
+
+#: inc/getting-started/getting-started.php:74
+#: inc/getting-started/getting-started.php:162
+msgid "Link to customizer"
+msgstr "Lien vers la personnalisation"
+
+#: inc/getting-started/getting-started.php:30
+msgid "Use Coupon"
+msgstr "Utiliser le coupon"
+
+#: inc/getting-started/getting-started.php:462
+msgid "Contact Us"
+msgstr "Nous contacter"
+
+#: inc/getting-started/getting-started.php:460
+msgid "If you have any queries after purchase, you can contact us. We are eveready to help you out."
+msgstr "Si vous avez une question après l’achat, vous pouvez nous contacter. Nous sommes prêts à vous aider."
+
+#: inc/getting-started/getting-started.php:454
+msgid "View FAQ"
+msgstr "Voir la FAQ"
+
+#: inc/getting-started/getting-started.php:452
+msgid "We have gathered top most, frequently asked questions and answered them for your easy understanding. We will list down more as we get new challenging queries. Check back often."
+msgstr "Nous avons rassemblé les questions fréquemment posées et leur avons répondu pour votre compréhension facile. Nous allons énumérer de nouvelles requêtes difficiles. Revenez souvent."
+
+#: inc/getting-started/getting-started.php:451
+msgid "Frequently Asked Questions"
+msgstr "Questions fréquemment posées"
+
+#: inc/getting-started/getting-started.php:446
+msgid "About Child Theme"
+msgstr "À propos du thème enfant"
+
+#: inc/getting-started/getting-started.php:444
+msgid "For theme file customizations, make modifications in the child theme and not in the main theme file."
+msgstr "Pour des personnalisations de fichier du thème, faîtes des modifications dans le thème enfant et non dans le fichier du thème principal."
+
+#: inc/getting-started/getting-started.php:443
+msgid "Child Theme"
+msgstr "Thème enfant"
+
+#: inc/getting-started/getting-started.php:439
+msgid "Question"
+msgstr "Question"
+
+#: inc/getting-started/getting-started.php:437
+msgid "If you have any pre-sale query, we are prepared to resolve it."
+msgstr "Si vous avez une question avant l’achat, nous sommes prêts à y répondre."
+
+#: inc/getting-started/getting-started.php:436
+msgid "Pre-purchase Queries"
+msgstr "Questions avant l’achat"
+
+#: inc/getting-started/getting-started.php:432
+msgid "Get Pro"
+msgstr "Passer Pro"
+
+#: inc/getting-started/getting-started.php:430
+msgid "To gain access to extra theme options and more interesting features, upgrade to pro version."
+msgstr "Pour accéder aux options extra du thème et à d’autres fonctions intéressantes, mettez à niveau en version pro."
+
+#: inc/getting-started/getting-started.php:429
+msgid "Pro Version"
+msgstr "Version pro"
+
+#: inc/getting-started/getting-started.php:412
+msgid "Seamless Customer Support"
+msgstr "Support client efficace"
+
+#: inc/getting-started/getting-started.php:407
+msgid "All Access Theme Pass"
+msgstr "Passe d’accès à tous les thèmes"
+
+#: inc/getting-started/getting-started.php:402
+msgid "Custom Feature Addition"
+msgstr "Ajout de fonction personnalisée"
+
+#: inc/getting-started/getting-started.php:397
+msgid "Priority Error Fixing"
+msgstr "Correction d’erreur prioritaire"
+
+#: inc/getting-started/getting-started.php:392
+msgid "Budget Friendly Value"
+msgstr "Valeur de budget amicale"
+
+#: inc/getting-started/getting-started.php:387
+msgid "Premium Membership"
+msgstr "Adhesion Premium"
+
+#: inc/getting-started/getting-started.php:382
+msgid "Custom Background, Colors, Header, Logo & Menu"
+msgstr "Arrière-plan, couleurs, en-tête, logo et menu personnalisés"
+
+#: inc/getting-started/getting-started.php:377
+msgid "Shortcodes"
+msgstr "Codes courts"
+
+#: inc/getting-started/getting-started.php:372
+msgid "Support to add custom CSS / JS "
+msgstr "Support pour ajout de CSS/JS "
+
+#: inc/getting-started/getting-started.php:367
+msgid "Simple & Mega Menu Option"
+msgstr "Option de menu simple et Mega"
+
+#: inc/getting-started/getting-started.php:362
+msgid "Gallery"
+msgstr "Galerie"
+
+#: inc/getting-started/getting-started.php:357
+msgid "Section Google Font Choices"
+msgstr "Section de choix de polices Google"
+
+#: inc/getting-started/getting-started.php:352
+msgid "Section Enable / Disable"
+msgstr "Activer/désactiver la section"
+
+#: inc/getting-started/getting-started.php:347
+msgid "Exclusive Functionalities"
+msgstr "Fonctions exclusives"
+
+#: inc/getting-started/getting-started.php:342
+msgid "Secure and Optimized Code"
+msgstr "Code sécurisé et optimisé"
+
+#: inc/getting-started/getting-started.php:337
+msgid "Support 3rd Party Plugins"
+msgstr "Support d’extensions tierces"
+
+#: inc/getting-started/getting-started.php:332
+msgid "Woo-Commerce Compatibility"
+msgstr "Compatibilité WooCommerce"
+
+#: inc/getting-started/getting-started.php:327
+msgid "Latest WordPress Compatibility"
+msgstr "Compatibilité avec le dernier WordPress"
+
+#: inc/getting-started/getting-started.php:322
+msgid "Full Documentation"
+msgstr "Documentation complète"
+
+#: inc/getting-started/getting-started.php:289
+msgid "2(Left/Right Sidebar)"
+msgstr "2 (barre gauche/droite)"
+
+#: inc/getting-started/getting-started.php:287
+msgid "Page Templates & Layout"
+msgstr "Mise en page et modèle de page"
+
+#: inc/getting-started/getting-started.php:284
+msgid "3(Full width/Left/Right Sidebar)"
+msgstr "3 (Barre gauche/droite/Pleine largeur)"
+
+#: inc/getting-started/getting-started.php:282
+msgid "Blog Templates & Layout"
+msgstr "Mise en page et modèles de blog"
+
+#: inc/getting-started/getting-started.php:277
+msgid "Contact us Page Template"
+msgstr "Modèle de page de contact"
+
+#: inc/getting-started/getting-started.php:268
+#: inc/getting-started/getting-started.php:269
+#: inc/getting-started/getting-started.php:279
+msgid "1"
+msgstr "1"
+
+#: inc/getting-started/getting-started.php:267
+msgid "Home Page Template"
+msgstr "Modèle de page d’accueil"
+
+#: inc/getting-started/getting-started.php:264
+msgid "6"
+msgstr "6"
+
+#: inc/customizer.php:830 inc/getting-started/getting-started.php:263
+msgid "3"
+msgstr "3"
+
+#: inc/getting-started/getting-started.php:262
+msgid "Template Pages"
+msgstr "Modèles de page"
+
+#: inc/getting-started/getting-started.php:259
+msgid "Unlimited"
+msgstr "Illimités"
+
+#: inc/getting-started/getting-started.php:258
+msgid "4"
+msgstr "4"
+
+#: inc/getting-started/getting-started.php:257
+msgid "Number of Slides"
+msgstr "Nombre de diapositives"
+
+#: inc/getting-started/getting-started.php:247
+msgid "Social Media Links"
+msgstr "Liens de réseaux sociaux"
+
+#: inc/getting-started/getting-started.php:242
+msgid "Logo Upload"
+msgstr "Téléverser un logo"
+
+#: inc/getting-started/getting-started.php:237
+msgid "Responsive Design"
+msgstr "Conception responsive"
+
+#: inc/getting-started/getting-started.php:232
+msgid "Theme Customization"
+msgstr "Personnalisation de thème"
+
+#: inc/getting-started/getting-started.php:227
+msgid "Premium Themes"
+msgstr "Thèmes premiums"
+
+#: inc/getting-started/getting-started.php:226
+msgid "Free Themes"
+msgstr "Thèmes gratuits"
+
+#: inc/getting-started/getting-started.php:219
+msgid "Theme Features"
+msgstr "Fonctions du thème"
+
+#: inc/getting-started/getting-started.php:212
+msgid "Pro Documentation"
+msgstr "Documentation Pro"
+
+#: inc/getting-started/getting-started.php:211
+msgid "Buy Pro"
+msgstr "Acheter la Pro"
+
+#: inc/getting-started/getting-started.php:210
+msgid "Live Demo"
+msgstr "Démo en direct"
+
+#: inc/getting-started/getting-started.php:208
+msgid "This spectacular premium Automobile WordPress Theme is made for the motor-heads. We have created our Automobile themes Stunning design with respect to the automotive industry. The frenzy for keeping our cars immaculate and shiny is well known. We assure you that it will be well reflected in our theme. As they are made with utilizing clean coding standards and it will function well with current WordPress version. It is built on the foundation of being responsive & user-friendly. This allows it to function at its optimal best across all platforms. This takes care of all the visitors and users, regardless of the source of traffic is being driven from."
+msgstr "Ce thème WordPress Automobile Premium est fait pour les moteurs. Nous avons créé nos thèmes Automobile avec une conception étonnante en ce qui concerne l'industrie automobile. La frénésie pour garder nos voitures Immaculée et brillante est bien connue. Nous vous assurons qu'elle sera bien reflétée dans notre thème. Comme ils sont faits avec l'utilisation de normes de codage propre il fonctionnera bien avec la version actuelle de WordPress. Il est construit sur une base responsive et conviviale. Cela lui permet de fonctionner à son meilleur sur toutes les plates-formes. Cela prend soin de tous les visiteurs et les utilisateurs, quelle que soit la source du trafic."
+
+#: inc/getting-started/getting-started.php:205
+msgid "Premium Theme Information"
+msgstr "Information du thème premium"
+
+#: inc/getting-started/getting-started.php:71
+msgid "Reviews"
+msgstr "Avis"
+
+#: inc/getting-started/getting-started.php:69
+msgid "All the features and aspects of this WordPress Theme are phenomenal. I'd recommend this theme to all."
+msgstr "Toutes les fonctions de ce thème WordPress sont phénoménales. Ce thème est recommandé pour tout."
+
+#: inc/getting-started/getting-started.php:68
+msgid "Reviews & Testimonials"
+msgstr "Avis et témoignages"
+
+#: inc/getting-started/getting-started.php:65
+msgid "Support Forum"
+msgstr "Forum de support"
+
+#: inc/getting-started/getting-started.php:63
+msgid "Our dedicated team is well prepared to help you out in case of queries and doubts regarding our theme."
+msgstr "Notre équipe dédiée et préparée à vous aider en cas de questions et doutes concernant notre thème."
+
+#: inc/getting-started/getting-started.php:62
+msgid "Having Trouble, Need Support?"
+msgstr "Un souci, besoin d’aide ?"
+
+#: inc/getting-started/getting-started.php:59
+msgid "Customizing"
+msgstr "Personnalisation"
+
+#: inc/getting-started/getting-started.php:57
+msgid "To begin customizing your website, start by clicking \"Customize\"."
+msgstr "Pour commencer à personnaliser votre site, cliquez sur\"Personnaliser\"."
+
+#: inc/getting-started/getting-started.php:56
+msgid "Theme Customizer"
+msgstr "Personnalisation du thème"
+
+#: inc/customizer.php:1522 inc/getting-started/getting-started.php:53
+#: inc/getting-started/getting-started.php:144
+msgid "Documentation"
+msgstr "Documentation"
+
+#: inc/getting-started/getting-started.php:51
+msgid "If you need any assistance regarding setting up and configuring the Theme, our documentation is there."
+msgstr "Si vous avez besoin d’aide sur la configuration du thème, notre documentation est là."
+
+#: inc/getting-started/getting-started.php:50
+msgid "Theme Documentation"
+msgstr "Documentation du thème"
+
+#: inc/getting-started/getting-started.php:46
+msgid "Lite Theme Information"
+msgstr "Information du thème Lite"
+
+#: inc/getting-started/getting-started.php:42
+msgid "Support"
+msgstr "Support"
+
+#: inc/getting-started/getting-started.php:41
+msgid "Get Premium"
+msgstr "Passer au Premium"
+
+#: inc/getting-started/getting-started.php:32
+#: inc/getting-started/getting-started.php:419
+msgid "Upgrade to Pro"
+msgstr "Mise à niveau en Pro"
+
+#: inc/getting-started/getting-started.php:48
+msgid "Our Automobile WordPress Theme is designed to be stylish and classy, much like all our beloved cars. This exclusive theme is developed especially for car dealership, Motorhome, Travel Trailer, Lifts, Trators, Forklift, Campers, Lift Trucks, MotoSnow, Snow Motorcycle, Motorbike Motor Full, Agriculture Equipment and even Aircrafts, Jets, Side-By-Side, ATV, Utilities ATV, RVs Helicopters, Turboprops, Charter, Airplanes, and Aerotrader businesses. Our Free WordPress theme is so feature-rich that you wouldnt feel like buying from someone else. With ample of personalization options, optimized codes, call to action button (CTA), beautiful banners, useful shortcodes, numerous styling options, it is the best professional WordPress theme to grab. You will get an interactive demo, responsive slider, quick page speed, display options, SEO friendly features, social media icons, and a bunch of other phenomenal features with this supreme theme. Furthermore, built on Bootstrap framework, the theme will ease the web development. No matter what kind of automobile industry or services you offer, our Automobile theme is made for the gear-heads like you. Whether you sell used car, deal in motorbikes, motorcycles, small cars, trucks, scooters, snowmobile, cab service, automobile blogger, own a car review website, run a garage, repair service, own a showroom, run a driving school and etc. All your long research and time invested in finding the best themes end with us, as we bring you a theme like no other. Our Free Automobile WordPress Theme is fresh, special and distinct in every aspect. It guarantees to give your website a professional look which you desperately wanted."
+msgstr "Notre thème WordPress Automobile est conçu pour être élégant et chic, un peu comme toutes nos voitures bien-aimées. Ce thème exclusif est développé spécialement pour les concessionnaires automobiles, camping-cars, remorques de voyage, ascenseurs, appareils de levage, chariots élévateurs, camping-cars, chariots élévateurs, motoneige, motos, équipement agricole et même avions, jets, VTT, Utilitaires, hélicoptères et avions. Notre thème gratuit WordPress est si riche en fonctionnalités que vous n'auriez pas envie d'en acheter un autre. Avec beaucoup d'options de personnalisation, des codes optimisés, bouton d’appel à action (CTA), de belles bannières, des codes courts utiles, de nombreuses options de style, il est le meilleur thème WordPress professionnel. Vous obtiendrez une démo interactive, un diaporama responsive, une vitesse rapide de page, des options d'affichage, une optimisation SEO, des icônes de réseaux sociaux, et un tas d'autres caractéristiques avec ce thème suprême. En outre, construit sur une base de bootstrap, le thème facilitera le développement. Peu importe quel type d'industrie automobile ou de services vous offrez, notre thème Automobile est fait pour vous. Si vous vendez de la voiture d'occasion, des motos, des petites voitures, des camions, des scooters, des motoneiges. Le blogueur d'automobile, possède un site d'examen de voiture, un garage, un service de réparation, une salle d'exposition. Toutes vos longues recherches et le temps investi dans la recherche des meilleurs thèmes finissent avec nous, comme nous vous apportons un thème comme aucun autre. Notre thème WordPress gratuit Automobile WordPress est frais, spécial et distinct dans tous ses aspects. Il garantit de donner à votre site l’aspect professionnel que vous vouliez désespérément."
+
+#: inc/getting-started/getting-started.php:22
+msgid "All our WordPress themes are modern, minimalist, 100% responsive, seo-friendly,feature-rich, and multipurpose that best suit designers, bloggers and other professionals who are working in the creative fields."
+msgstr "Tous nos thèmes WordPress sont modernes, minimalistes, 100% responsives, optimisés SEO, riches en fonctionnalités, polyvalents et conviennent le mieux aux concepteurs, blogueurs et autres professionnels qui travaillent dans les domaines de la création."
+
+#: inc/getting-started/getting-started.php:21
+msgid "Welcome to VW Automobile Theme"
+msgstr "Bienvenue dans le thème VW Automobile"
+
+#: inc/getting-started/getting-started.php:4
+msgid "About VW Automobile Theme"
+msgstr "À propos du thème Automobile"
+
+#: inc/customizer.php:1515
+msgid "Upgrade Pro"
+msgstr "Mise à niveau en Pro"
+
+#: inc/typography/ctypo.php:130
+msgid "Paragraph Color"
+msgstr "Couleur de paragraphe"
+
+#: inc/typography/ctypo.php:27 inc/getting-started/getting-started.php:82
+msgid "Typography"
+msgstr "Typographie"
+
+#: functions.php:72
+msgid "Thank you for choosing VW Automobile theme. Would like to have you on our Welcome page so that you can reap all the benefits of our VW Automobile theme."
+msgstr "Merci d'avoir choisile thème  VW automobile. Voudriez vous aller sur notre page de bienvenue afin de bénéficier de tous les avantages de notre thème VW Automobile."
+
+#: no-results.php:20
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Ne vous inquiétez pas, cela arrive aux meileurs d’entre nous."
+
+#: inc/customizer.php:1086
+msgid "Footer Section"
+msgstr "Section de pied"
+
+#: inc/customizer.php:322
+msgid "Add Timing"
+msgstr "Ajout d’horaires"
+
+#: inc/customizer.php:81
+msgid "Four Columns"
+msgstr "Quatre colonnes"
+
+#: inc/customizer.php:80
+msgid "Three Columns"
+msgstr "Trois colonnes"
+
+#: inc/customizer.php:79 inc/customizer.php:98
+msgid "One Column"
+msgstr "Une colonne"
+
+#. Template Name of the theme
+msgid "Custom Home"
+msgstr "Accueil personnalisé"
+
+#: template-parts/single-post-layout.php:66
+msgid "Previous post:"
+msgstr "Article précédent :"
+
+#: page-template/custom-home-page.php:55
+msgid "Previous"
+msgstr "Précédent"
+
+#: template-parts/single-post-layout.php:63
+msgid "Next post:"
+msgstr "Article suivant :"
+
+#: page-template/custom-home-page.php:59
+msgid "Next"
+msgstr "Suivant"
+
+#: template-parts/single-post-layout.php:58
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publié dans</span><span class=\"post-title\">%title</span>"
+
+#: template-parts/image-layout.php:32
+msgid "Edit"
+msgstr "Modifier"
+
+#: template-parts/image-layout.php:27
+msgid "Pages:"
+msgstr "Pages :"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Méta"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "Archives"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Rechercher"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Recherche"
+
+#: no-results.php:17
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à votre recherche. Veuillez essayer à nouveau avec des mots différents."
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: inc/customizer.php:1514
+msgid "VW Automobile Pro"
+msgstr "VW Automobile Pro"
+
+#: inc/customizer.php:1103
+msgid "Copyright Text"
+msgstr "Texte de copyright"
+
+#: inc/getting-started/getting-started.php:124
+#: inc/getting-started/getting-started.php:179
+msgid "Footer Text"
+msgstr "Texte de pied"
+
+#: inc/customizer.php:503
+msgid "Select Category to display Latest Post"
+msgstr "Sélection de catégorie pour afficher le dernier article"
+
+#: inc/customizer.php:479
+msgid "Title"
+msgstr "Titre"
+
+#: inc/customizer.php:462 inc/block-patterns/block-patterns.php:36
+msgid "Choose Us Section"
+msgstr "Section Nous choisir"
+
+#: inc/customizer.php:298
+msgid "Add Email"
+msgstr "Ajout d’e-mail"
+
+#: inc/customizer.php:274
+msgid "Add Phone Number"
+msgstr "Ajout de numéro de téléphone"
+
+#: inc/customizer.php:134
+msgid "Add Top Header Content here"
+msgstr "Ajoutez le contenu de heut d’en-tête ici"
+
+#: inc/customizer.php:133
+msgid "Topbar Section"
+msgstr "Section de barre haute"
+
+#: inc/customizer.php:357
+msgid "Select Slide Image Page"
+msgstr "Sélection d’image de page de diapositive"
+
+#: inc/customizer.php:330 inc/getting-started/getting-started.php:87
+#: inc/getting-started/getting-started.php:252
+msgid "Slider Settings"
+msgstr "Réglages de diaporama"
+
+#: inc/customizer.php:82
+msgid "Grid Layout"
+msgstr "Mise en page en grille"
+
+#: inc/customizer.php:78 inc/customizer.php:97
+msgid "Right Sidebar"
+msgstr "Barre de droite"
+
+#: inc/customizer.php:77 inc/customizer.php:96
+msgid "Left Sidebar"
+msgstr "Barre de gauche"
+
+#: inc/customizer.php:46 inc/getting-started/getting-started.php:121
+#: inc/getting-started/getting-started.php:194
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: inc/customizer.php:41
+msgid "VW Settings"
+msgstr "Réglages VW"
+
+#: functions.php:140
+msgid "Footer Navigation 4"
+msgstr "Navigation de pied 4"
+
+#: functions.php:130
+msgid "Footer Navigation 3"
+msgstr "Navigation de pied 3"
+
+#: functions.php:120
+msgid "Footer Navigation 2"
+msgstr "Navigation de pied 2"
+
+#: functions.php:111 functions.php:121 functions.php:131 functions.php:141
+msgid "Appears on footer "
+msgstr "Apparaît dans le pied "
+
+#: functions.php:110
+msgid "Footer Navigation 1"
+msgstr "Navigation de pied 1"
+
+#: functions.php:91
+msgid "Appears on page sidebar"
+msgstr "Apparaît sur la barre de page"
+
+#: functions.php:90
+msgid "Page Sidebar"
+msgstr "Barre de page"
+
+#: functions.php:81
+msgid "Appears on blog page sidebar"
+msgstr "Apparaît sur la barre de page de blog"
+
+#: functions.php:80
+msgid "Blog Sidebar"
+msgstr "Barre de blog"
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: image.php:32 image.php:57 image.php:81 image.php:105 image.php:131
+#: image.php:157 image.php:182 single.php:31 single.php:58 single.php:84
+#: single.php:110 single.php:138 single.php:166 single.php:193
+msgid "Page"
+msgstr "Page"
+
+#: image.php:31 image.php:56 image.php:80 image.php:104 image.php:130
+#: image.php:156 image.php:181 single.php:30 single.php:57 single.php:83
+#: single.php:109 single.php:137 single.php:165 single.php:192
+msgid "Next page"
+msgstr "Page suivante"
+
+#: image.php:30 image.php:55 image.php:79 image.php:103 image.php:129
+#: image.php:155 image.php:180 single.php:29 single.php:56 single.php:82
+#: single.php:108 single.php:136 single.php:164 single.php:191
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: no-results.php:22 inc/customizer.php:928 404.php:17
+msgid "Back to Home Page"
+msgstr "Retour vers la page d’accueil"
+
+#. Author URI of the theme
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Author of the theme
+msgid "VW Themes"
+msgstr "VW Themes"
